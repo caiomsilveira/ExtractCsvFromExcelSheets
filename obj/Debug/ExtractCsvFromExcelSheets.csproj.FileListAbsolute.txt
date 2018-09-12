@@ -1,0 +1,7 @@
+C:\Projects\ExtractCsvFromExcelSheets\bin\Debug\ExtractCsvFromExcelSheets.exe.config
+C:\Projects\ExtractCsvFromExcelSheets\bin\Debug\ExtractCsvFromExcelSheets.exe
+C:\Projects\ExtractCsvFromExcelSheets\bin\Debug\ExtractCsvFromExcelSheets.pdb
+C:\Projects\ExtractCsvFromExcelSheets\obj\Debug\ExtractCsvFromExcelSheets.csproj.ResolveComReference.cache
+C:\Projects\ExtractCsvFromExcelSheets\obj\Debug\ExtractCsvFromExcelSheets.csproj.CoreCompileInputs.cache
+C:\Projects\ExtractCsvFromExcelSheets\obj\Debug\ExtractCsvFromExcelSheets.exe
+C:\Projects\ExtractCsvFromExcelSheets\obj\Debug\ExtractCsvFromExcelSheets.pdb

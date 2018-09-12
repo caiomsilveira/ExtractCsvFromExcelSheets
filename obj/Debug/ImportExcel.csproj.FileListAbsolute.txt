@@ -1,0 +1,7 @@
+C:\Genius\Source\TVO_2\TVO\ImportExcel\bin\Debug\ImportExcel.exe.config
+C:\Genius\Source\TVO_2\TVO\ImportExcel\bin\Debug\ImportExcel.exe
+C:\Genius\Source\TVO_2\TVO\ImportExcel\bin\Debug\ImportExcel.pdb
+C:\Genius\Source\TVO_2\TVO\ImportExcel\obj\Debug\ImportExcel.csproj.ResolveComReference.cache
+C:\Genius\Source\TVO_2\TVO\ImportExcel\obj\Debug\ImportExcel.csproj.CoreCompileInputs.cache
+C:\Genius\Source\TVO_2\TVO\ImportExcel\obj\Debug\ImportExcel.exe
+C:\Genius\Source\TVO_2\TVO\ImportExcel\obj\Debug\ImportExcel.pdb
